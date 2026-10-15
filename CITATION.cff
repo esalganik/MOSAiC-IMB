@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this dataset and its original data sources."
+type: dataset
+title: "MOSAiC ice mass balance buoy data: extended collection"
+authors:
+  - family-names: Salganik
+    given-names: Evgenii
+    affiliation: "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI)"
+version: "1"
+abstract: "Interfaces, snow and ice thickness, temperature and heating response from 29 MOSAiC buoys during 2019–2020."
+license: CC-BY-4.0
