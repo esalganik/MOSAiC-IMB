@@ -16,6 +16,17 @@ Elevations are positive upward in each instrument’s source coordinate system. 
 
 Hourly ensemble means and standard deviations describe the seasonal evolution across the available records. Both statistics are smoothed with a seven-day moving mean; individual records remain unsmoothed by this step. DTC26 is retained as a ridge-site record but excluded from the ensemble summaries. DTC11 and DTC12 are excluded from the ice-thickness summary, following the earlier instrument selection. Raw statistics, inclusion flags and contributing-buoy counts are included in the file.
 
+<p align="center">
+  <img src="figures/mean_snow_ice_thickness.png" width="700" alt="MOSAiC snow depth and sea-ice thickness">
+</p>
+
+<p align="center">
+  <em>Figure 1. Seasonal evolution of mean snow depth and sea-ice thickness
+  from MOSAiC ice mass balance buoys in 2019–2020. Ensemble means and
+  standard deviations are smoothed using a seven-day moving mean.
+  The number of contributing buoys varies over time.</em>
+</p>
+
 ## Figures and sources
 
 Five figures show surface and bottom interfaces over temperature and heating response, together with mean snow and ice thickness and instrument counts. The MATLAB script in `scripts/` reproduces these figures directly from `data/MOSAiC_IMB_extended_v1.nc` without the original MAT files.
