@@ -1,6 +1,7 @@
 # MOSAiC ice mass balance buoy observations
 
 Snow and sea-ice thickness evolve through winter growth, snow accumulation and summer melt. Autonomous thermistor-chain observations provide a continuous view of these changes and their associated thermal structure.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23406150.svg)](https://doi.org/10.5281/zenodo.23406150)
 
 This repository brings together processed observations from **29 buoys** deployed during the MOSAiC expedition in 2019–2020: **11 SIMBAs, 16 Digital Thermistor Chains (DTCs), SIMB I3 and IMB 2020M29**. Each record spans its available observation period; coverage and the number of contributing instruments vary through time.
 
